@@ -1,0 +1,1507 @@
+﻿ticker,name,sector,in_sp500
+MMM,3M,Industrials,True
+AOS,A. O. Smith,Industrials,True
+ABT,Abbott Laboratories,Health Care,True
+ABBV,AbbVie,Health Care,True
+ACN,Accenture,Information Technology,True
+ADBE,Adobe Inc.,Information Technology,True
+AMD,Advanced Micro Devices,Information Technology,True
+AES,AES Corporation,Utilities,True
+AFL,Aflac,Financials,True
+A,Agilent Technologies,Health Care,True
+APD,Air Products,Materials,True
+ABNB,Airbnb,Consumer Discretionary,True
+AKAM,Akamai Technologies,Information Technology,True
+ALB,Albemarle Corporation,Materials,True
+ARE,Alexandria Real Estate Equities,Real Estate,True
+ALGN,Align Technology,Health Care,True
+ALLE,Allegion,Industrials,True
+LNT,Alliant Energy,Utilities,True
+ALL,Allstate,Financials,True
+GOOGL,Alphabet Inc. (Class A),Communication Services,True
+GOOG,Alphabet Inc. (Class C),Communication Services,True
+MO,Altria,Consumer Staples,True
+AMZN,Amazon,Consumer Discretionary,True
+AMCR,Amcor,Materials,True
+AEE,Ameren,Utilities,True
+AEP,American Electric Power,Utilities,True
+AXP,American Express,Financials,True
+AIG,American International Group,Financials,True
+AMT,American Tower,Real Estate,True
+AWK,American Water Works,Utilities,True
+AMP,Ameriprise Financial,Financials,True
+AME,Ametek,Industrials,True
+AMGN,Amgen,Health Care,True
+APH,Amphenol,Information Technology,True
+ADI,Analog Devices,Information Technology,True
+AON,Aon plc,Financials,True
+APA,APA Corporation,Energy,True
+APO,Apollo Global Management,Financials,True
+AAPL,Apple Inc.,Information Technology,True
+AMAT,Applied Materials,Information Technology,True
+APP,AppLovin,Communication Services,True
+APTV,Aptiv,Consumer Discretionary,True
+ACGL,Arch Capital Group,Financials,True
+ADM,Archer Daniels Midland,Consumer Staples,True
+ARES,Ares Management,Financials,True
+ANET,Arista Networks,Information Technology,True
+AJG,Arthur J. Gallagher & Co.,Financials,True
+AIZ,Assurant,Financials,True
+T,AT&T,Communication Services,True
+ATO,Atmos Energy,Utilities,True
+ADSK,Autodesk,Information Technology,True
+ADP,Automatic Data Processing,Industrials,True
+AZO,AutoZone,Consumer Discretionary,True
+AVY,Avery Dennison,Materials,True
+AXON,Axon Enterprise,Industrials,True
+BKR,Baker Hughes,Energy,True
+BALL,Ball Corporation,Materials,True
+BAC,Bank of America,Financials,True
+BAX,Baxter International,Health Care,True
+BDX,Becton Dickinson,Health Care,True
+BRK-B,Berkshire Hathaway,Financials,True
+BBY,Best Buy,Consumer Discretionary,True
+TECH,Bio-Techne,Health Care,True
+BIIB,Biogen,Health Care,True
+BLK,BlackRock,Financials,True
+BX,Blackstone Inc.,Financials,True
+XYZ,"Block, Inc.",Financials,True
+BNY,BNY Mellon,Financials,True
+BA,Boeing,Industrials,True
+BKNG,Booking Holdings,Consumer Discretionary,True
+BSX,Boston Scientific,Health Care,True
+BMY,Bristol Myers Squibb,Health Care,True
+AVGO,Broadcom,Information Technology,True
+BR,Broadridge Financial Solutions,Industrials,True
+BRO,Brown & Brown,Financials,True
+BF-B,Brown–Forman,Consumer Staples,True
+BLDR,Builders FirstSource,Industrials,True
+BG,Bunge Global,Consumer Staples,True
+BXP,"BXP, Inc.",Real Estate,True
+CHRW,C.H. Robinson,Industrials,True
+CDNS,Cadence Design Systems,Information Technology,True
+CPT,Camden Property Trust,Real Estate,True
+COF,Capital One,Financials,True
+CAH,Cardinal Health,Health Care,True
+CCL,Carnival Corporation,Consumer Discretionary,True
+CARR,Carrier Global,Industrials,True
+CVNA,Carvana,Consumer Discretionary,True
+CASY,Casey's,Consumer Staples,True
+CAT,Caterpillar Inc.,Industrials,True
+CBOE,Cboe Global Markets,Financials,True
+CBRE,CBRE Group,Real Estate,True
+CDW,CDW Corporation,Information Technology,True
+COR,Cencora,Health Care,True
+CNC,Centene Corporation,Health Care,True
+CNP,CenterPoint Energy,Utilities,True
+CF,CF Industries,Materials,True
+CRL,Charles River Laboratories,Health Care,True
+SCHW,Charles Schwab Corporation,Financials,True
+CHTR,Charter Communications,Communication Services,True
+CVX,Chevron Corporation,Energy,True
+CMG,Chipotle Mexican Grill,Consumer Discretionary,True
+CB,Chubb Limited,Financials,True
+CHD,Church & Dwight,Consumer Staples,True
+CIEN,Ciena,Information Technology,True
+CI,Cigna,Health Care,True
+CINF,Cincinnati Financial,Financials,True
+CTAS,Cintas,Industrials,True
+CSCO,Cisco,Information Technology,True
+C,Citigroup,Financials,True
+CFG,Citizens Financial Group,Financials,True
+CLX,Clorox,Consumer Staples,True
+CME,CME Group,Financials,True
+CMS,CMS Energy,Utilities,True
+KO,Coca-Cola Company (The),Consumer Staples,True
+CTSH,Cognizant,Information Technology,True
+COHR,Coherent Corp.,Information Technology,True
+COIN,Coinbase,Financials,True
+CL,Colgate-Palmolive,Consumer Staples,True
+CMCSA,Comcast,Communication Services,True
+FIX,Comfort Systems USA,Industrials,True
+COP,ConocoPhillips,Energy,True
+ED,Consolidated Edison,Utilities,True
+STZ,Constellation Brands,Consumer Staples,True
+CEG,Constellation Energy,Utilities,True
+COO,Cooper Companies (The),Health Care,True
+CPRT,Copart,Industrials,True
+GLW,Corning Inc.,Information Technology,True
+CPAY,Corpay,Financials,True
+CTVA,Corteva,Materials,True
+CSGP,CoStar Group,Real Estate,True
+COST,Costco,Consumer Staples,True
+CRH,CRH plc,Materials,True
+CRWD,CrowdStrike,Information Technology,True
+CCI,Crown Castle,Real Estate,True
+CSX,CSX Corporation,Industrials,True
+CMI,Cummins,Industrials,True
+CVS,CVS Health,Health Care,True
+DHR,Danaher Corporation,Health Care,True
+DRI,Darden Restaurants,Consumer Discretionary,True
+DDOG,Datadog,Information Technology,True
+DVA,DaVita,Health Care,True
+DECK,Deckers Brands,Consumer Discretionary,True
+DE,Deere & Company,Industrials,True
+DELL,Dell Technologies,Information Technology,True
+DAL,Delta Air Lines,Industrials,True
+DVN,Devon Energy,Energy,True
+DXCM,Dexcom,Health Care,True
+FANG,Diamondback Energy,Energy,True
+DLR,Digital Realty,Real Estate,True
+DG,Dollar General,Consumer Staples,True
+DLTR,Dollar Tree,Consumer Staples,True
+D,Dominion Energy,Utilities,True
+DPZ,Domino's,Consumer Discretionary,True
+DASH,DoorDash,Consumer Discretionary,True
+DOV,Dover Corporation,Industrials,True
+DOW,Dow Inc.,Materials,True
+DHI,D. R. Horton,Consumer Discretionary,True
+DTE,DTE Energy,Utilities,True
+DUK,Duke Energy,Utilities,True
+DD,DuPont,Industrials,True
+ETN,Eaton Corporation,Industrials,True
+EBAY,eBay Inc.,Consumer Discretionary,True
+ECHO,EchoStar,Communication Services,True
+ECL,Ecolab,Materials,True
+EIX,Edison International,Utilities,True
+EW,Edwards Lifesciences,Health Care,True
+ELV,Elevance Health,Health Care,True
+EME,Emcor,Industrials,True
+EMR,Emerson Electric,Industrials,True
+ETR,Entergy,Utilities,True
+EOG,EOG Resources,Energy,True
+EQT,EQT Corporation,Energy,True
+EFX,Equifax,Industrials,True
+EQIX,Equinix,Real Estate,True
+ERIE,Erie Indemnity,Financials,True
+ESS,Essex Property Trust,Real Estate,True
+EL,Estée Lauder Companies (The),Consumer Staples,True
+EG,Everest Group,Financials,True
+EVRG,Evergy,Utilities,True
+ES,Eversource Energy,Utilities,True
+EXC,Exelon,Utilities,True
+EXE,Expand Energy,Energy,True
+EXPE,Expedia Group,Consumer Discretionary,True
+EXPD,Expeditors International,Industrials,True
+EXR,Extra Space Storage,Real Estate,True
+XOM,ExxonMobil,Energy,True
+FFIV,"F5, Inc.",Information Technology,True
+FDS,FactSet,Financials,True
+FICO,Fair Isaac,Information Technology,True
+FAST,Fastenal,Industrials,True
+FRT,Federal Realty Investment Trust,Real Estate,True
+FDX,FedEx,Industrials,True
+FDXF,FedEx Freight,Industrials,True
+FERG,Ferguson Enterprises,Industrials,True
+FIS,Fidelity National Information Services,Financials,True
+FITB,Fifth Third Bancorp,Financials,True
+FSLR,First Solar,Information Technology,True
+FE,FirstEnergy,Utilities,True
+FISV,Fiserv,Financials,True
+FLEX,Flex Ltd.,Information Technology,True
+F,Ford Motor Company,Consumer Discretionary,True
+FTNT,Fortinet,Information Technology,True
+FTV,Fortive,Industrials,True
+FOXA,Fox Corporation (Class A),Communication Services,True
+FOX,Fox Corporation (Class B),Communication Services,True
+BEN,Franklin Resources,Financials,True
+FCX,Freeport-McMoRan,Materials,True
+GRMN,Garmin,Consumer Discretionary,True
+IT,Gartner,Information Technology,True
+GE,GE Aerospace,Industrials,True
+GEHC,GE HealthCare,Health Care,True
+GEV,GE Vernova,Industrials,True
+GEN,Gen Digital,Information Technology,True
+GNRC,Generac,Industrials,True
+GD,General Dynamics,Industrials,True
+GIS,General Mills,Consumer Staples,True
+GM,General Motors,Consumer Discretionary,True
+GPC,Genuine Parts Company,Consumer Discretionary,True
+GILD,Gilead Sciences,Health Care,True
+GPN,Global Payments,Financials,True
+GL,Globe Life,Financials,True
+GDDY,GoDaddy,Information Technology,True
+GS,Goldman Sachs,Financials,True
+HAL,Halliburton,Energy,True
+HIG,Hartford (The),Financials,True
+HAS,Hasbro,Consumer Discretionary,True
+HCA,HCA Healthcare,Health Care,True
+DOC,Healthpeak Properties,Real Estate,True
+HSIC,Henry Schein,Health Care,True
+HSY,Hershey Company (The),Consumer Staples,True
+HPE,Hewlett Packard Enterprise,Information Technology,True
+HLT,Hilton Worldwide,Consumer Discretionary,True
+HD,Home Depot (The),Consumer Discretionary,True
+HONA,Honeywell Aerospace,Industrials,True
+HON,Honeywell Technologies,Industrials,True
+HRL,Hormel Foods,Consumer Staples,True
+HST,Host Hotels & Resorts,Real Estate,True
+HWM,Howmet Aerospace,Industrials,True
+HPQ,HP Inc.,Information Technology,True
+HUBB,Hubbell Incorporated,Industrials,True
+HUM,Humana,Health Care,True
+HBAN,Huntington Bancshares,Financials,True
+HII,Huntington Ingalls Industries,Industrials,True
+IBM,IBM,Information Technology,True
+IEX,IDEX Corporation,Industrials,True
+IDXX,Idexx Laboratories,Health Care,True
+ITW,Illinois Tool Works,Industrials,True
+INCY,Incyte,Health Care,True
+IR,Ingersoll Rand,Industrials,True
+PODD,Insulet Corporation,Health Care,True
+INTC,Intel,Information Technology,True
+IBKR,Interactive Brokers,Financials,True
+ICE,Intercontinental Exchange,Financials,True
+IFF,International Flavors & Fragrances,Materials,True
+IP,International Paper,Materials,True
+INTU,Intuit,Information Technology,True
+ISRG,Intuitive Surgical,Health Care,True
+IVZ,Invesco,Financials,True
+INVH,Invitation Homes,Real Estate,True
+IQV,IQVIA,Health Care,True
+IRM,Iron Mountain,Real Estate,True
+JBHT,J.B. Hunt,Industrials,True
+JBL,Jabil,Information Technology,True
+JKHY,Jack Henry & Associates,Financials,True
+J,Jacobs Solutions,Industrials,True
+JNJ,Johnson & Johnson,Health Care,True
+JCI,Johnson Controls,Industrials,True
+JPM,JPMorgan Chase,Financials,True
+KVUE,Kenvue,Consumer Staples,True
+KDP,Keurig Dr Pepper,Consumer Staples,True
+KEY,KeyCorp,Financials,True
+KEYS,Keysight Technologies,Information Technology,True
+KMB,Kimberly-Clark,Consumer Staples,True
+KIM,Kimco Realty,Real Estate,True
+KMI,Kinder Morgan,Energy,True
+KKR,KKR & Co.,Financials,True
+KLAC,KLA Corporation,Information Technology,True
+KHC,Kraft Heinz,Consumer Staples,True
+KR,Kroger,Consumer Staples,True
+LHX,L3Harris,Industrials,True
+LH,Labcorp,Health Care,True
+LRCX,Lam Research,Information Technology,True
+LVS,Las Vegas Sands,Consumer Discretionary,True
+LDOS,Leidos,Industrials,True
+LEN,Lennar,Consumer Discretionary,True
+LII,Lennox International,Industrials,True
+LLY,Lilly (Eli),Health Care,True
+LIN,Linde plc,Materials,True
+LYV,Live Nation Entertainment,Communication Services,True
+LMT,Lockheed Martin,Industrials,True
+L,Loews Corporation,Financials,True
+LOW,Lowe's,Consumer Discretionary,True
+LULU,Lululemon Athletica,Consumer Discretionary,True
+LITE,Lumentum,Information Technology,True
+LYB,LyondellBasell,Materials,True
+MTB,M&T Bank,Financials,True
+MPC,Marathon Petroleum,Energy,True
+MAR,Marriott International,Consumer Discretionary,True
+MRSH,Marsh McLennan,Financials,True
+MLM,Martin Marietta Materials,Materials,True
+MRVL,Marvell Technology,Information Technology,True
+MAS,Masco,Industrials,True
+MA,Mastercard,Financials,True
+MKC,McCormick & Company,Consumer Staples,True
+MCD,McDonald's,Consumer Discretionary,True
+MCK,McKesson Corporation,Health Care,True
+MDT,Medtronic,Health Care,True
+MRK,Merck & Co.,Health Care,True
+META,Meta Platforms,Communication Services,True
+MET,MetLife,Financials,True
+MTD,Mettler Toledo,Health Care,True
+MGM,MGM Resorts,Consumer Discretionary,True
+MCHP,Microchip Technology,Information Technology,True
+MU,Micron Technology,Information Technology,True
+MSFT,Microsoft,Information Technology,True
+MAA,Mid-America Apartment Communities,Real Estate,True
+MRNA,Moderna,Health Care,True
+TAP,Molson Coors Beverage Company,Consumer Staples,True
+MDLZ,Mondelez International,Consumer Staples,True
+MPWR,Monolithic Power Systems,Information Technology,True
+MNST,Monster Beverage,Consumer Staples,True
+MCO,Moody's Corporation,Financials,True
+MS,Morgan Stanley,Financials,True
+MOS,Mosaic Company (The),Materials,True
+MSI,Motorola Solutions,Information Technology,True
+MSCI,MSCI,Financials,True
+NDAQ,"Nasdaq, Inc.",Financials,True
+NTAP,NetApp,Information Technology,True
+NFLX,Netflix,Communication Services,True
+NEM,Newmont,Materials,True
+NWSA,News Corp (Class A),Communication Services,True
+NWS,News Corp (Class B),Communication Services,True
+NEE,NextEra Energy,Utilities,True
+NKE,"Nike, Inc.",Consumer Discretionary,True
+NI,NiSource,Utilities,True
+NDSN,Nordson Corporation,Industrials,True
+NSC,Norfolk Southern,Industrials,True
+NTRS,Northern Trust,Financials,True
+NOC,Northrop Grumman,Industrials,True
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,True
+NRG,NRG Energy,Utilities,True
+NUE,Nucor,Materials,True
+NVDA,Nvidia,Information Technology,True
+NVR,"NVR, Inc.",Consumer Discretionary,True
+NXPI,NXP Semiconductors,Information Technology,True
+ORLY,O'Reilly Automotive,Consumer Discretionary,True
+OXY,Occidental Petroleum,Energy,True
+ODFL,Old Dominion,Industrials,True
+OMC,Omnicom Group,Communication Services,True
+ON,ON Semiconductor,Information Technology,True
+OKE,Oneok,Energy,True
+ORCL,Oracle Corporation,Information Technology,True
+OTIS,Otis Worldwide,Industrials,True
+PCAR,Paccar,Industrials,True
+PKG,Packaging Corporation of America,Materials,True
+PLTR,Palantir Technologies,Information Technology,True
+PANW,Palo Alto Networks,Information Technology,True
+PSKY,Paramount Skydance Corporation,Communication Services,True
+PH,Parker Hannifin,Industrials,True
+PAYX,Paychex,Industrials,True
+PYPL,PayPal,Financials,True
+PNR,Pentair,Industrials,True
+PEP,PepsiCo,Consumer Staples,True
+PFE,Pfizer,Health Care,True
+PCG,PG&E Corporation,Utilities,True
+PM,Philip Morris International,Consumer Staples,True
+PSX,Phillips 66,Energy,True
+PNW,Pinnacle West Capital,Utilities,True
+PNC,PNC Financial Services,Financials,True
+PPG,PPG Industries,Materials,True
+PPL,PPL Corporation,Utilities,True
+PFG,Principal Financial Group,Financials,True
+PG,Procter & Gamble,Consumer Staples,True
+PGR,Progressive Corporation,Financials,True
+PLD,Prologis,Real Estate,True
+PRU,Prudential Financial,Financials,True
+PEG,Public Service Enterprise Group,Utilities,True
+PTC,PTC Inc.,Information Technology,True
+PSA,Public Storage,Real Estate,True
+PHM,PulteGroup,Consumer Discretionary,True
+PWR,Quanta Services,Industrials,True
+QCOM,Qualcomm,Information Technology,True
+DGX,Quest Diagnostics,Health Care,True
+Q,Qnity Electronics,Information Technology,True
+RL,Ralph Lauren Corporation,Consumer Discretionary,True
+RJF,Raymond James Financial,Financials,True
+RDDT,Reddit,Communication Services,True
+RTX,RTX Corporation,Industrials,True
+O,Realty Income,Real Estate,True
+REG,Regency Centers,Real Estate,True
+REGN,Regeneron Pharmaceuticals,Health Care,True
+RF,Regions Financial Corporation,Financials,True
+RSG,Republic Services,Industrials,True
+RMD,ResMed|,Health Care,True
+RVTY,Revvity,Health Care,True
+HOOD,Robinhood Markets,Financials,True
+ROK,Rockwell Automation,Industrials,True
+ROL,"Rollins, Inc.",Industrials,True
+ROP,Roper Technologies,Information Technology,True
+ROST,Ross Stores,Consumer Discretionary,True
+RCL,Royal Caribbean Group,Consumer Discretionary,True
+SPGI,S&P Global,Financials,True
+CRM,Salesforce,Information Technology,True
+SNDK,Sandisk,Information Technology,True
+SBAC,SBA Communications,Real Estate,True
+SLB,Schlumberger,Energy,True
+STX,Seagate Technology,Information Technology,True
+SRE,Sempra,Utilities,True
+NOW,ServiceNow,Information Technology,True
+SHW,Sherwin-Williams,Materials,True
+SPG,Simon Property Group,Real Estate,True
+SWKS,Skyworks Solutions,Information Technology,True
+SJM,J.M. Smucker Company (The),Consumer Staples,True
+SW,Smurfit Westrock,Materials,True
+SNA,Snap-on,Industrials,True
+SOLV,Solventum,Health Care,True
+SO,Southern Company,Utilities,True
+LUV,Southwest Airlines,Industrials,True
+SWK,Stanley Black & Decker,Industrials,True
+SBUX,Starbucks,Consumer Discretionary,True
+STT,State Street Corporation,Financials,True
+STLD,Steel Dynamics,Materials,True
+STE,Steris,Health Care,True
+SYK,Stryker Corporation,Health Care,True
+SMCI,Supermicro,Information Technology,True
+SYF,Synchrony Financial,Financials,True
+SNPS,Synopsys,Information Technology,True
+SYY,Sysco,Consumer Staples,True
+TMUS,T-Mobile US,Communication Services,True
+TROW,T. Rowe Price,Financials,True
+TTWO,Take-Two Interactive,Communication Services,True
+TPR,"Tapestry, Inc.",Consumer Discretionary,True
+TRGP,Targa Resources,Energy,True
+TGT,Target Corporation,Consumer Staples,True
+TEL,TE Connectivity,Information Technology,True
+TDY,Teledyne Technologies,Information Technology,True
+TER,Teradyne,Information Technology,True
+TSLA,"Tesla, Inc.",Consumer Discretionary,True
+TXN,Texas Instruments,Information Technology,True
+TPL,Texas Pacific Land Corporation,Energy,True
+TXT,Textron,Industrials,True
+TMO,Thermo Fisher Scientific,Health Care,True
+TJX,TJX Companies,Consumer Discretionary,True
+TKO,TKO Group Holdings,Communication Services,True
+TTD,Trade Desk (The),Communication Services,True
+TSCO,Tractor Supply,Consumer Discretionary,True
+TT,Trane Technologies,Industrials,True
+TDG,TransDigm Group,Industrials,True
+TRV,Travelers Companies (The),Financials,True
+TRMB,Trimble Inc.,Information Technology,True
+TFC,Truist Financial,Financials,True
+TYL,Tyler Technologies,Information Technology,True
+TSN,Tyson Foods,Consumer Staples,True
+USB,U.S. Bancorp,Financials,True
+UBER,Uber,Industrials,True
+UDR,"UDR, Inc.",Real Estate,True
+ULTA,Ulta Beauty,Consumer Discretionary,True
+UNP,Union Pacific Corporation,Industrials,True
+UAL,United Airlines Holdings,Industrials,True
+UPS,United Parcel Service,Industrials,True
+URI,United Rentals,Industrials,True
+UNH,UnitedHealth Group,Health Care,True
+UHS,Universal Health Services,Health Care,True
+VLO,Valero Energy,Energy,True
+VEEV,Veeva Systems,Health Care,True
+VTR,Ventas,Real Estate,True
+VLTO,Veralto,Industrials,True
+VRSN,Verisign,Information Technology,True
+VRSK,Verisk Analytics,Industrials,True
+VZ,Verizon,Communication Services,True
+VRTX,Vertex Pharmaceuticals,Health Care,True
+VRT,Vertiv,Industrials,True
+VTRS,Viatris,Health Care,True
+VICI,Vici Properties,Real Estate,True
+V,Visa Inc.,Financials,True
+VST,Vistra Corp.,Utilities,True
+VMRK,Vivmark Residential,Real Estate,True
+VMC,Vulcan Materials Company,Materials,True
+WRB,W. R. Berkley Corporation,Financials,True
+GWW,W. W. Grainger,Industrials,True
+WAB,Wabtec,Industrials,True
+WMT,Walmart,Consumer Staples,True
+DIS,Walt Disney Company (The),Communication Services,True
+WBD,Warner Bros. Discovery,Communication Services,True
+WM,Waste Management,Industrials,True
+WAT,Waters Corporation,Health Care,True
+WEC,WEC Energy Group,Utilities,True
+WFC,Wells Fargo,Financials,True
+WELL,Welltower,Real Estate,True
+WST,West Pharmaceutical Services,Health Care,True
+WDC,Western Digital,Information Technology,True
+WY,Weyerhaeuser,Real Estate,True
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,True
+WMB,Williams Companies,Energy,True
+WTW,Willis Towers Watson,Financials,True
+WDAY,"Workday, Inc.",Information Technology,True
+WYNN,Wynn Resorts,Consumer Discretionary,True
+XEL,Xcel Energy,Utilities,True
+XYL,Xylem Inc.,Industrials,True
+YUM,Yum! Brands,Consumer Discretionary,True
+ZBRA,Zebra Technologies,Information Technology,True
+ZBH,Zimmer Biomet,Health Care,True
+ZTS,Zoetis,Health Care,True
+AA,Alcoa,Materials,False
+AAL,American Airlines Group,Industrials,False
+AAON,AAON,Industrials,False
+ACI,Albertsons,Consumer Staples,False
+ACM,AECOM,Industrials,False
+ADC,Agree Realty,Real Estate,False
+AEIS,Advanced Energy,Information Technology,False
+AFG,American Financial Group,Financials,False
+AGCO,AGCO,Industrials,False
+AHR,American Healthcare REIT,Real Estate,False
+AIT,Applied Industrial Technologies,Industrials,False
+ALGM,Allegro MicroSystems,Information Technology,False
+ALK,Alaska Air Group,Industrials,False
+ALLY,Ally Financial,Financials,False
+ALSN,Allison Transmission,Industrials,False
+ALV,Autoliv,Consumer Discretionary,False
+AM,Antero Midstream,Energy,False
+AMG,Affiliated Managers Group,Financials,False
+AMH,American Homes 4 Rent,Real Estate,False
+AMKR,Amkor Technology,Information Technology,False
+AN,AutoNation,Consumer Discretionary,False
+ANF,Abercrombie & Fitch,Consumer Discretionary,False
+APG,APi Group,Industrials,False
+APPF,AppFolio,Information Technology,False
+AR,Antero Resources,Energy,False
+ARMK,Aramark,Consumer Discretionary,False
+ARW,Arrow Electronics,Information Technology,False
+ARWR,Arrowhead Pharmaceuticals,Health Care,False
+ASB,Associated Bank,Financials,False
+ASH,Ashland Global,Materials,False
+ATI,ATI Inc.,Industrials,False
+ATR,AptarGroup,Materials,False
+AVAV,AeroVironment,Industrials,False
+AVNT,Avient,Materials,False
+AVT,Avnet,Information Technology,False
+AVTR,Avantor,Health Care,False
+AXTA,Axalta,Materials,False
+AYI,Acuity Brands,Industrials,False
+BAH,Booz Allen Hamilton,Industrials,False
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,False
+BC,Brunswick,Consumer Discretionary,False
+BCO,Brink's,Industrials,False
+BDC,Belden Inc.,Information Technology,False
+BHF,Brighthouse Financial,Financials,False
+BILL,Bill Holdings,Information Technology,False
+BIO,Bio-Rad Laboratories,Health Care,False
+BJ,BJ's Wholesale Club,Consumer Staples,False
+BKH,Black Hills Corporation,Utilities,False
+BMRN,BioMarin Pharmaceutical,Health Care,False
+BRKR,Bruker,Health Care,False
+BROS,Dutch Bros Inc.,Consumer Discretionary,False
+BRX,Brixmor Property Group,Real Estate,False
+BSY,Bentley Systems,Information Technology,False
+BTSG,BrightSpring Health Services,Health Care,False
+BURL,Burlington Stores,Consumer Discretionary,False
+BWA,BorgWarner,Consumer Discretionary,False
+BWXT,BWX Technologies,Industrials,False
+BYD,Boyd Gaming,Consumer Discretionary,False
+CACI,CACI International,Industrials,False
+CAR,Avis Budget Group,Industrials,False
+CART,Maplebear Inc.,Consumer Staples,False
+CAVA,Cava Group,Consumer Discretionary,False
+CBSH,Commerce Bancshares,Financials,False
+CBT,Cabot Corp,Materials,False
+CCK,Crown Holdings,Materials,False
+CDE,Coeur Mining,Materials,False
+CDP,COPT Defense Properties,Real Estate,False
+CELH,Celsius Holdings,Consumer Staples,False
+CFR,Frost Bank,Financials,False
+CG,Carlyle Group (The),Financials,False
+CGNX,Cognex,Information Technology,False
+CHDN,Churchill Downs Inc.,Consumer Discretionary,False
+CHE,Chemed Corp.,Health Care,False
+CHH,Choice Hotels,Consumer Discretionary,False
+CHRD,Chord Energy,Energy,False
+CHWY,Chewy,Consumer Discretionary,False
+CLF,Cleveland-Cliffs,Materials,False
+CLH,Clean Harbors,Industrials,False
+CMC,Commercial Metals,Materials,False
+CNH,CNH Industrial,Industrials,False
+CNM,Core & Main,Industrials,False
+CNO,CNO Financial Group,Financials,False
+CNX,CNX Resources,Energy,False
+COKE,Coca-Cola Consolidated,Consumer Staples,False
+COLB,Columbia Banking System,Financials,False
+COLM,Columbia Sportswear,Consumer Discretionary,False
+CPRI,Capri Holdings,Consumer Discretionary,False
+CR,Crane,Industrials,False
+CRBG,Corebridge Financial,Financials,False
+CROX,Crocs,Consumer Discretionary,False
+CRS,Carpenter Technology,Industrials,False
+CRUS,Cirrus Logic,Information Technology,False
+CSL,Carlisle Companies,Industrials,False
+CTRE,CareTrust REIT,Real Estate,False
+CUBE,CubeSmart,Real Estate,False
+CUZ,Cousins Properties,Real Estate,False
+CVLT,CommVault Systems,Information Technology,False
+CW,Curtiss-Wright,Industrials,False
+CXT,Crane NXT,Information Technology,False
+CYTK,Cytokinetics,Health Care,False
+DAR,Darling Ingredients,Consumer Staples,False
+DBX,Dropbox,Information Technology,False
+DCI,Donaldson Company,Industrials,False
+DINO,HF Sinclair,Energy,False
+DKS,Dick's Sporting Goods,Consumer Discretionary,False
+DLB,Dolby,Information Technology,False
+DOCN,DigitalOcean,Information Technology,False
+DOCS,Doximity,Health Care,False
+DOCU,Docusign,Information Technology,False
+DT,Dynatrace,Information Technology,False
+DTM,DT Midstream,Energy,False
+DUOL,Duolingo,Consumer Discretionary,False
+DY,Dycom Industries,Industrials,False
+EEFT,Euronet Worldwide,Financials,False
+EGP,EastGroup Properties,Real Estate,False
+EHC,Encompass Health,Health Care,False
+ELAN,Elanco,Health Care,False
+ELF,e.l.f. Beauty,Consumer Staples,False
+ELS,Equity Lifestyle Properties,Real Estate,False
+ENS,EnerSys,Industrials,False
+ENSG,Ensign Group,Health Care,False
+ENTG,Entegris,Information Technology,False
+EPR,EPR Properties,Real Estate,False
+EQH,Equitable Holdings,Financials,False
+ESAB,ESAB,Industrials,False
+ESNT,Essent Group Ltd.,Financials,False
+EVR,Evercore,Financials,False
+EWBC,East West Bancorp,Financials,False
+EXEL,Exelixis,Health Care,False
+EXLS,EXL Service,Industrials,False
+EXP,Eagle Materials,Materials,False
+EXPO,"Exponent, Inc.",Industrials,False
+FAF,First American Financial Corporation,Financials,False
+FBIN,Fortune Brands Innovations,Industrials,False
+FCFS,FirstCash,Financials,False
+FCN,FTI Consulting,Industrials,False
+FFIN,First Financial Bankshares,Financials,False
+FHI,Federated Hermes,Financials,False
+FHN,First Horizon,Financials,False
+FIVE,Five Below,Consumer Discretionary,False
+FLG,Flagstar Bank,Financials,False
+FLR,Fluor,Industrials,False
+FLS,Flowserve,Industrials,False
+FN,Fabrinet,Information Technology,False
+FNB,FNB Corporation,Financials,False
+FND,Floor & Decor,Consumer Discretionary,False
+FNF,Fidelity National Financial,Financials,False
+FOUR,Shift4,Financials,False
+FR,First Industrial Realty Trust,Real Estate,False
+FTI,TechnipFMC,Energy,False
+G,Genpact,Industrials,False
+GAP,Gap Inc.,Consumer Discretionary,False
+GATX,GATX,Industrials,False
+GBCI,Glacier Bancorp,Financials,False
+GEF,"Greif, Inc.",Materials,False
+GGG,Graco Inc.,Industrials,False
+GHC,Graham Holdings,Consumer Discretionary,False
+GLPI,Gaming and Leisure Properties,Real Estate,False
+GME,GameStop,Consumer Discretionary,False
+GMED,Globus Medical,Health Care,False
+GNTX,Gentex,Consumer Discretionary,False
+GPK,Graphic Packaging,Materials,False
+GWRE,Guidewire Software,Information Technology,False
+GXO,GXO Logistics,Industrials,False
+H,Hyatt,Consumer Discretionary,False
+HAE,Haemonetics,Health Care,False
+HALO,Halozyme,Health Care,False
+HGV,Hilton Grand Vacations,Consumer Discretionary,False
+HIMS,Hims & Hers Health,Health Care,False
+HL,Hecla Mining,Materials,False
+HLI,Houlihan Lokey,Financials,False
+HLNE,Hamilton Lane,Financials,False
+HOG,Harley-Davidson,Consumer Discretionary,False
+HOMB,Home BancShares,Financials,False
+HQY,HealthEquity,Health Care,False
+HR,Healthcare Realty Trust,Real Estate,False
+HRB,H&R Block,Consumer Discretionary,False
+HWC,Hancock Whitney,Financials,False
+HXL,Hexcel,Industrials,False
+IBOC,Intl Bancshares Corp,Financials,False
+IDA,Idacorp,Utilities,False
+IDCC,InterDigital,Information Technology,False
+IESC,IES Holdings,Industrials,False
+ILMN,"Illumina, Inc.",Health Care,False
+INGR,Ingredion,Consumer Staples,False
+IPGP,IPG Photonics,Information Technology,False
+IRT,Independence Realty Trust,Real Estate,False
+ITT,ITT Inc.,Industrials,False
+JAZZ,Jazz Pharmaceuticals,Health Care,False
+JEF,Jefferies,Financials,False
+JLL,Jones Lang LaSalle,Real Estate,False
+KBH,KB Home,Consumer Discretionary,False
+KBR,"KBR, Inc.",Industrials,False
+KD,Kyndryl,Information Technology,False
+KEX,Kirby Corporation,Industrials,False
+KNF,Knife River Corporation,Materials,False
+KNSL,Kinsale Capital Group,Financials,False
+KNX,Knight-Swift,Industrials,False
+KRC,Kilroy Realty Corp,Real Estate,False
+KRG,Kite Realty Group Trust,Real Estate,False
+KRYS,Krystal Biotech,Health Care,False
+KTOS,Kratos Defense & Security Solutions,Industrials,False
+LAD,Lithia Motors,Consumer Discretionary,False
+LAMR,Lamar Advertising Company,Real Estate,False
+LEA,Lear,Consumer Discretionary,False
+LECO,Lincoln Electric,Industrials,False
+LFUS,Littelfuse,Information Technology,False
+LIVN,LivaNova,Health Care,False
+LNTH,Lantheus Holdings,Health Care,False
+LOPE,Grand Canyon Education,Consumer Discretionary,False
+LPX,Louisiana-Pacific,Industrials,False
+LSCC,Lattice Semiconductor,Information Technology,False
+LSTR,Landstar System,Industrials,False
+M,Macy's,Consumer Discretionary,False
+MANH,Manhattan Associates,Information Technology,False
+MAT,Mattel,Consumer Discretionary,False
+MEDP,Medpace,Health Care,False
+MIDD,Middleby,Industrials,False
+MKSI,MKS Instruments,Information Technology,False
+MLI,Mueller Industries,Industrials,False
+MMS,Maximus Inc.,Industrials,False
+MOG-A,Moog Inc.,Industrials,False
+MOH,Molina Healthcare,Health Care,False
+MORN,"Morningstar, Inc.",Financials,False
+MP,MP Materials,Materials,False
+MSA,MSA Safety,Industrials,False
+MSM,MSC Industrial Direct,Industrials,False
+MTDR,Matador Resources,Energy,False
+MTG,MGIC Investment Corporation,Financials,False
+MTN,Vail Resorts,Consumer Discretionary,False
+MTSI,MACOM Technology Solutions,Information Technology,False
+MTZ,MasTec,Industrials,False
+MUR,Murphy Oil,Energy,False
+MUSA,Murphy USA,Consumer Discretionary,False
+MZTI,The Marzetti Company,Consumer Staples,False
+NBIX,Neurocrine Biosciences,Health Care,False
+NEU,NewMarket Corporation,Materials,False
+NFG,National Fuel Gas,Utilities,False
+NJR,New Jersey Resources,Utilities,False
+NLY,Annaly Capital Management,Financials,False
+NNN,NNN Reit,Real Estate,False
+NOV,NOV Inc.,Energy,False
+NOVT,Novanta,Information Technology,False
+NTNX,Nutanix,Information Technology,False
+NVST,Envista Holdings,Health Care,False
+NVT,nVent Electric plc,Industrials,False
+NWE,NorthWestern Energy,Utilities,False
+NXST,Nexstar Media Group,Communication Services,False
+NXT,Nextpower,Industrials,False
+NYT,New York Times Company,Communication Services,False
+OC,Owens Corning,Industrials,False
+OGE,OGE Energy,Utilities,False
+OGS,One Gas,Utilities,False
+OHI,Omega Healthcare Investors,Real Estate,False
+OKTA,"Okta, Inc.",Information Technology,False
+OLED,Universal Display,Information Technology,False
+OLLI,Ollie's Bargain Outlet,Consumer Discretionary,False
+OLN,Olin Corporation,Materials,False
+ONB,Old National Bank,Financials,False
+ONTO,Onto Innovation,Information Technology,False
+OPCH,Option Care Health,Health Care,False
+ORA,Ormat Technologies,Utilities,False
+ORI,Old Republic International,Financials,False
+OSK,Oshkosh,Industrials,False
+OVV,Ovintiv,Energy,False
+OZK,Bank OZK,Financials,False
+P,Everpure,Information Technology,False
+PAG,Penske Automotive Group,Consumer Discretionary,False
+PATH,UiPath,Information Technology,False
+PB,Prosperity Bancshares,Financials,False
+PBF,PBF Energy,Energy,False
+PCTY,Paylocity,Industrials,False
+PEGA,Pegasystems,Information Technology,False
+PEN,"Penumbra, Inc.",Health Care,False
+PFGC,Performance Food Group,Consumer Staples,False
+PII,Polaris,Consumer Discretionary,False
+PINS,Pinterest,Communication Services,False
+PK,Park Hotels & Resorts,Real Estate,False
+PLNT,Planet Fitness,Consumer Discretionary,False
+PNFP,Pinnacle Financial Partners,Financials,False
+POR,Portland General Electric,Utilities,False
+POST,Post Holdings,Consumer Staples,False
+PPC,Pilgrim's Pride,Consumer Staples,False
+PR,Permian Resources,Energy,False
+PRI,Primerica,Financials,False
+PSN,Parsons Corporation,Industrials,False
+PVH,PVH Corp.,Consumer Discretionary,False
+QLYS,Qualys,Information Technology,False
+R,Ryder,Industrials,False
+RBA,RB Global,Industrials,False
+RBC,RBC Bearings,Industrials,False
+REXR,Rexford Industrial Realty,Real Estate,False
+RGA,Reinsurance Group of America,Financials,False
+RGEN,Repligen,Health Care,False
+RGLD,Royal Gold,Materials,False
+RH,RH,Consumer Discretionary,False
+RLI,RLI Corp.,Financials,False
+RMBS,Rambus,Information Technology,False
+RNR,RenaissanceRe,Financials,False
+ROIV,Roivant Sciences,Health Care,False
+ROKU,"Roku, Inc.",Communication Services,False
+RPM,RPM International,Materials,False
+RRC,Range Resources,Energy,False
+RRX,Regal Rexnord,Industrials,False
+RS,"Reliance, Inc.",Materials,False
+RYAN,Ryan Specialty,Financials,False
+RYN,Rayonier,Real Estate,False
+SAIA,Saia,Industrials,False
+SAIC,Science Applications Intl Corp,Industrials,False
+SAM,Boston Beer Company,Consumer Staples,False
+SANM,Sanmina Corporation,Information Technology,False
+SARO,StandardAero,Industrials,False
+SBRA,Sabra Health Care REIT,Real Estate,False
+SCI,Service Corp Intl,Consumer Discretionary,False
+SEIC,SEI Investments Company,Financials,False
+SF,Stifel,Financials,False
+SFM,Sprouts Farmers Market,Consumer Staples,False
+SGI,Somnigroup International,Consumer Discretionary,False
+SHC,Sotera Health,Health Care,False
+SIGI,Selective Insurance Group,Financials,False
+SIRI,SiriusXM,Communication Services,False
+SITM,SiTime,Information Technology,False
+SLAB,Silicon Labs,Information Technology,False
+SLGN,Silgan Holdings,Materials,False
+SLM,SLM Corp,Financials,False
+SMG,Scotts Miracle-Gro Company,Materials,False
+SMTC,Semtech,Information Technology,False
+SN,SharkNinja,Consumer Discretionary,False
+SNX,TD Synnex,Information Technology,False
+SOLS,Solstice Advanced Materials,Materials,False
+SON,Sonoco,Materials,False
+SPXC,SPX Technologies,Industrials,False
+SR,Spire,Utilities,False
+SSB,South State Bank,Financials,False
+SSD,Simpson Manufacturing,Industrials,False
+ST,Sensata Technologies,Industrials,False
+STAG,STAG Industrial,Real Estate,False
+STRL,Sterling Infrastructure,Industrials,False
+STWD,Starwood Property Trust,Financials,False
+SUI,Sun Communities,Real Estate,False
+SWX,Southwest Gas Corp,Utilities,False
+SYNA,Synaptics,Information Technology,False
+TCBI,Texas Capital Bancshares,Financials,False
+TEX,Terex,Industrials,False
+THC,Tenet Health,Health Care,False
+THG,Hanover Insurance,Financials,False
+THO,Thor Industries,Consumer Discretionary,False
+TKR,Timken,Industrials,False
+TLN,Talen Energy,Utilities,False
+TNL,Travel + Leisure Co.,Consumer Discretionary,False
+TOL,Toll Brothers,Consumer Discretionary,False
+TOST,"Toast, Inc.",Financials,False
+TREX,Trex,Industrials,False
+TRU,TransUnion,Industrials,False
+TTC,Toro,Industrials,False
+TTEK,Tetra Tech,Industrials,False
+TTMI,TTM Technologies,Information Technology,False
+TWLO,Twilio,Information Technology,False
+TXNM,TXNM Energy,Utilities,False
+TXRH,Texas Roadhouse,Consumer Discretionary,False
+UBSI,United Bankshares,Financials,False
+UFPI,UFP Industries,Industrials,False
+UGI,UGI Corp,Utilities,False
+ULS,UL Solutions,Industrials,False
+UMBF,UMB Financial Corp.,Financials,False
+UNM,Unum,Financials,False
+USFD,US Foods,Consumer Staples,False
+UTHR,United Therapeutics,Health Care,False
+VAL,Valaris,Energy,False
+VC,Visteon,Consumer Discretionary,False
+VFC,VF Corporation,Consumer Discretionary,False
+VIAV,Viavi Solutions,Information Technology,False
+VICR,Vicor Corporation,Industrials,False
+VLY,Valley Bank,Financials,False
+VMI,Valmont Industries,Industrials,False
+VNO,Vornado Realty Trust,Real Estate,False
+VNOM,Viper Energy,Energy,False
+VNT,Vontier,Information Technology,False
+VOYA,Voya Financial,Financials,False
+VVV,Valvoline,Consumer Discretionary,False
+WAL,Western Alliance Bancorporation,Financials,False
+WCC,WESCO International,Industrials,False
+WEX,WEX Inc.,Financials,False
+WFRD,Weatherford International,Energy,False
+WH,Wyndham Hotels & Resorts,Consumer Discretionary,False
+WHR,Whirlpool Corporation,Consumer Discretionary,False
+WING,Wingstop,Consumer Discretionary,False
+WLK,Westlake Corporation,Materials,False
+WMG,Warner Music Group,Communication Services,False
+WMS,Advanced Drainage Systems,Industrials,False
+WPC,W. P. Carey,Real Estate,False
+WSO,Watsco,Industrials,False
+WTFC,Wintrust Financial,Financials,False
+WTRG,Essential Utilities,Utilities,False
+WTS,Watts Water Technologies,Industrials,False
+WWD,"Woodward, Inc.",Industrials,False
+XPO,"XPO, Inc.",Industrials,False
+XRAY,Dentsply Sirona,Health Care,False
+YETI,Yeti Holdings,Consumer Discretionary,False
+ZION,Zions Bancorporation,Financials,False
+AAMI,Acadian Asset Management Inc.,Financials,False
+AAP,"Advance Auto Parts, Inc.",Consumer Discretionary,False
+AAT,American Assets Trust,Real Estate,False
+ABCB,Ameris Bancorp,Financials,False
+ABG,Asbury Automotive Group,Consumer Discretionary,False
+ABM,"ABM Industries, Inc.",Industrials,False
+ABR,Arbor Realty Trust,Financials,False
+ACA,"Arcosa, Inc.",Industrials,False
+ACAD,Acadia Pharmaceuticals,Health Care,False
+ACHC,Acadia Healthcare,Health Care,False
+ACIW,ACI Worldwide,Information Technology,False
+ACLS,"Axcelis Technologies, Inc.",Information Technology,False
+ACMR,"ACM Research, Inc.",Information Technology,False
+ACT,"Enact Holdings, Inc.",Financials,False
+ADAM,"Adamas Trust, Inc.",Real Estate,False
+ADEA,"Adeia, Inc.",Information Technology,False
+ADIG,ADI Global Distribution,Information Technology,False
+ADMA,"ADMA Biologics, Inc.",Health Care,False
+ADNT,Adient,Consumer Discretionary,False
+ADT,ADT Inc.,Consumer Discretionary,False
+ADUS,Addus HomeCare Corp.,Health Care,False
+AEO,American Eagle Outfitters,Consumer Discretionary,False
+AESI,"Atlas Energy Solutions, Inc.",Energy,False
+AGNT,"eXp World Holdings, Inc.",Real Estate,False
+AGO,Assured Guaranty Ltd.,Financials,False
+AGX,"Argan, Inc.",Industrials,False
+AGYS,"Agilysys, Inc.",Information Technology,False
+AHCO,AdaptHealth Corp.,Health Care,False
+AIN,Albany International Corp.,Industrials,False
+AIR,AAR Corp.,Industrials,False
+AKR,Acadia Realty Trust,Real Estate,False
+ALG,Alamo Group,Industrials,False
+ALGT,Allegiant Travel Company,Industrials,False
+ALHC,"Alignment Healthcare, Inc.",Health Care,False
+ALKS,Alkermes plc,Health Care,False
+ALRM,"Alarm.Com, Inc.",Financials,False
+AMN,"Amn Healthcare Services, Inc.",Health Care,False
+AMPH,"Amphstar Pharmaceuticals, Inc.",Health Care,False
+AMR,"Alpha Metallurgical Resources, Inc.",Materials,False
+AMRX,Amneal Pharmaceuticals,Health Care,False
+AMSF,"Amerisafe, Inc.",Financials,False
+AMTM,Amentum,Industrials,False
+ANDE,"The Andersons, Inc.",Consumer Staples,False
+ANIP,"ANI Pharmaceuticals, Inc.",Health Care,False
+AORT,Artivion,Health Care,False
+AOSL,"Alpha and Omega Semiconductor, Ltd.",Information Technology,False
+APAM,"Artisan Partners Asset Management, Inc.",Financials,False
+APLE,"Apple Hospitality REIT, Inc.",Real Estate,False
+APOG,"Apogee Enterprises, Inc.",Industrials,False
+ARCB,ArcBest Corp.,Industrials,False
+ARLO,Arlo Technologies,Information Technology,False
+AROC,"Archrock, Inc.",Energy,False
+ARR,Armour Residential REIT,Real Estate,False
+ASO,Academy Sports + Outdoors,Consumer Discretionary,False
+ASTE,"Astec Industries, Inc.",Industrials,False
+ASTH,"Astrana Health, Inc.",Health Care,False
+ATEN,"A10 Networks, Inc.",Information Technology,False
+ATMU,Atmus Filtration Technologies Inc.,Industrials,False
+AUB,"Atlantic Union Bankshares, Corp.",Financials,False
+AVA,Avista Corporation,Utilities,False
+AWI,"Armstrong World Industries, Inc.",Industrials,False
+AWR,American States Water Company,Utilities,False
+AX,"Axos Financial, Inc.",Financials,False
+AZTA,"Azenta, Inc.",Health Care,False
+AZZ,"AZZ, Inc.",Industrials,False
+BANC,"Banc Of California, Inc.",Financials,False
+BANF,Bancfirst Corp,Financials,False
+BANR,Banner Corporation,Financials,False
+BBT,Beacon Financial Corp.,Financials,False
+BCC,Boise Cascade,Industrials,False
+BCPC,Balchem Corporation,Materials,False
+BFAM,Bright Horizons Family Solutions Inc.,Consumer Discretionary,False
+BFH,"Bread Financial Holdings, Inc.",Financials,False
+BFS,"Saul Centers, Inc.",Real Estate,False
+BGC,"BGC Group, Inc.",Financials,False
+BHE,"Benchmark Electronics, Inc.",Information Technology,False
+BJRI,"BJ's Restaurants, Inc.",Consumer Discretionary,False
+BKE,"The Buckle, Inc.",Consumer Discretionary,False
+BKU,"BankUnited, Inc.",Financials,False
+BL,"BlackLine Systems, Inc.",Information Technology,False
+BLFS,"BioLife Solutions, Inc.",Health Care,False
+BLKB,Blackbaud,Information Technology,False
+BMI,"Badger Meter, Inc.",Information Technology,False
+BNL,"Broadstone Net Lease, Inc.",Real Estate,False
+BOH,Bank of Hawaii,Financials,False
+BOOT,"Boot Barn Holdings, Inc.",Consumer Discretionary,False
+BOX,"Box, Inc.",Information Technology,False
+BRC,Brady Corporation,Industrials,False
+BTU,"Peabody Energy, Inc.",Energy,False
+BXMT,"Blackstone Mortgage Trust, Inc.",Financials,False
+CACC,Credit Acceptance,Financials,False
+CAG,Conagra Brands,Consumer Staples,False
+CAKE,"The Cheesecake Factory, Inc.",Consumer Discretionary,False
+CALM,"Cal-Maine Foods, Inc.",Consumer Staples,False
+CALX,Calix,Information Technology,False
+CALY,Callaway Golf Company,Consumer Discretionary,False
+CARG,CarGurus,Communication Services,False
+CASH,"Pathward Financial, Inc.",Financials,False
+CATY,Cathay General Bancorp,Financials,False
+CBRL,Cracker Barrel,Consumer Discretionary,False
+CBU,"Community Bank System, Inc.",Financials,False
+CC,Chemours,Materials,False
+CCOI,"Cogent Communications Holdings, Inc.",Communication Services,False
+CCS,"Century Communities, Inc.",Consumer Discretionary,False
+CE,Celanese,Materials,False
+CENT,Central Garden & Pet Company,Consumer Staples,False
+CENTA,Central Garden & Pet Company (Class A),Consumer Staples,False
+CENX,Century Aluminum Company,Materials,False
+CERT,"Certara, Inc.",Health Care,False
+CFFN,Capitol Federal Savings Bank,Financials,False
+CHCO,City Holding Company,Financials,False
+CHEF,"Chefs' Warehouse, Inc.",Consumer Staples,False
+CLSK,"CleanSpark, Inc.",Information Technology,False
+CNK,"Cinemark Holdings, Inc.",Communication Services,False
+CNMD,CONMED Corporation,Health Care,False
+CNR,"Core Natural Resources, Inc.",Energy,False
+CNS,"Cohen & Steers, Inc.",Financials,False
+CNXC,Concentrix,Industrials,False
+CNXN,"PC Connection, Inc.",Information Technology,False
+COCO,The Vita Coco Company,Consumer Staples,False
+COHU,"Cohu, Inc.",Information Technology,False
+COLL,"Collegium Pharmaceutical, Inc.",Health Care,False
+CON,"Concentra Group Holdings Parent, Inc.",Health Care,False
+CORT,Corcept Therapeutics Incorporated,Health Care,False
+COTY,Coty,Consumer Staples,False
+CPB,The Campbell's Company,Consumer Staples,False
+CPF,Central Pacific Financial Corp.,Financials,False
+CPK,Chesapeake Utilities Corp.,Utilities,False
+CRC,California Resources Corporation,Energy,False
+CRGY,Crescent Energy Company,Energy,False
+CRI,"Carter's, Inc.",Consumer Discretionary,False
+CRK,"Comstock Resources, Inc.",Energy,False
+CRSR,Corsair Gaming,Information Technology,False
+CRVL,CorVel Corporation,Health Care,False
+CSR,Centerspace Trust,Real Estate,False
+CSW,"CSW Industrials, Inc.",Industrials,False
+CTS,CTS Corporation,Information Technology,False
+CUBI,"Customers Bancorp, Inc.",Financials,False
+CURB,Curbline Properties Corp.,Real Estate,False
+CVBF,CVB Financial Corp.,Financials,False
+CVCO,"Cavco Industries, Inc.",Consumer Discretionary,False
+CVI,"CVR Energy, Inc.",Energy,False
+CVSA,Covista Inc.,Consumer Discretionary,False
+CWEN,"Clearway Energy, Inc. (Class C)",Utilities,False
+CWEN-A,"Clearway Energy, Inc. (Class A)",Utilities,False
+CWK,Cushman & Wakefield plc,Real Estate,False
+CWST,"Casella Waste Systems, Inc.",Industrials,False
+CWT,California Water Service Group,Utilities,False
+CXM,"Sprinklr, Inc.",Information Technology,False
+CXW,CoreCivic,Industrials,False
+CZR,Caesars Entertainment,Consumer Discretionary,False
+DAN,Dana Incorporated,Consumer Discretionary,False
+DAVE,"Dave, Inc.",Financials,False
+DBD,Diebold Nixdorf,Information Technology,False
+DCH,Dauch Corporation,Consumer Discretionary,False
+DCOM,"Dime Community Bancshares, Inc.",Financials,False
+DEA,"Easterly Government Properties, Inc.",Real Estate,False
+DEI,Douglas Emmett,Real Estate,False
+DFH,"Dream Finders Homes, Inc.",Consumer Discretionary,False
+DFIN,"Donnelley Financial Solutions, Inc.",Financials,False
+DGII,Digi International Inc.,Information Technology,False
+DIOD,Diodes Incorporated,Information Technology,False
+DLX,Deluxe Corporation,Industrials,False
+DMC,Del Monte Corporation,Consumer Staples,False
+DNOW,NOW Inc,Industrials,False
+DORM,"Dorman Products, Inc.",Consumer Discretionary,False
+DRH,DiamondRock Hospitality Company,Real Estate,False
+DV,DoubleVerify Holdings Inc.,Communication Services,False
+DXC,DXC Technology,Information Technology,False
+DXPE,"DXP Enterprises, Inc.",Industrials,False
+EAT,"Brinker International, Inc.",Consumer Discretionary,False
+EBC,"Eastern Bankshares, Inc.",Financials,False
+ECG,"Everus Construction Group, Inc.",Industrials,False
+ECPG,"Encore Capital Group, Inc.",Financials,False
+EFC,"Ellington Financial, Inc.",Financials,False
+EFOR,Everforth Inc.,Information Technology,False
+EGBN,Eagle Bancorp Inc,Financials,False
+EIG,"Employers Holdings, Inc.",Financials,False
+EMN,Eastman Chemical Company,Materials,False
+ENOV,Enovis,Health Care,False
+ENPH,Enphase Energy,Information Technology,False
+ENR,Energizer,Consumer Staples,False
+ENVA,"Enova International, Inc.",Financials,False
+EPAC,Enerpac Tool Group,Industrials,False
+EPAM,EPAM Systems,Information Technology,False
+EPC,Edgewell Personal Care,Consumer Staples,False
+EPRT,"Essential Properties Realty Trust, Inc.",Real Estate,False
+ESE,ESCO Technologies Inc.,Industrials,False
+ESI,Element Solutions,Materials,False
+ETSY,Etsy,Consumer Discretionary,False
+EVTC,"EVERTEC, Inc.",Financials,False
+EXTR,"Extreme Networks, Inc.",Information Technology,False
+EYE,National Vision Holdings,Consumer Discretionary,False
+EZPW,"EZCORP, Inc.",Financials,False
+FA,First Advantage Corporation,Industrials,False
+FBK,FB Financial Corp.,Financials,False
+FBNC,First Bancorp (Southern Pines NC),Financials,False
+FBP,First BanCorp (Puerto Rico),Financials,False
+FBRT,"Franklin BSP Realty Trust, Inc.",Real Estate,False
+FCF,"First Commonwealth Financial, Corp.",Financials,False
+FCPT,"Four Corners Property Trust, Inc.",Real Estate,False
+FELE,Franklin Electric,Industrials,False
+FFBC,First Financial Bancorp,Financials,False
+FG,"F&G Annuities & Life, Inc.",Financials,False
+FHB,"First Hawaiian, Inc.",Financials,False
+FIBK,"First Interstate BancSystem, Inc.",Financials,False
+FIVN,"Five9, Inc.",Information Technology,False
+FIZZ,National Beverage Corp.,Consumer Staples,False
+FLO,Flowers Foods,Consumer Staples,False
+FMC,FMC Corporation,Materials,False
+FORM,"FormFactor, Inc.",Information Technology,False
+FOXF,Fox Factory,Consumer Discretionary,False
+FRPT,Freshpet,Consumer Staples,False
+FSS,Federal Signal Corporation,Industrials,False
+FTDR,"Frontdoor, Inc.",Consumer Discretionary,False
+FTRE,Fortrea,Health Care,False
+FUL,H.B. Fuller Company,Materials,False
+FULT,Fulton Financial Corporation,Financials,False
+FUN,Six Flags,Consumer Discretionary,False
+GBX,"The Greenbrier Companies, Inc.",Industrials,False
+GEO,"GEO Group, Inc.",Industrials,False
+GFF,Griffon Corporation,Industrials,False
+GIII,"G-III Apparel Group, Ltd.",Consumer Discretionary,False
+GKOS,Glaukos Corp.,Health Care,False
+GNL,"Global Net Lease, Inc.",Real Estate,False
+GNW,"Genworth Financial, Inc.",Financials,False
+GO,Grocery Outlet,Consumer Staples,False
+GOLF,Acushnet Company,Consumer Discretionary,False
+GPI,"Group 1 Automotive, Inc.",Consumer Discretionary,False
+GPOR,Gulfport Energy Corporation,Energy,False
+GRBK,"Green Brick Partners, Inc.",Consumer Discretionary,False
+GSHD,"Goosehead Insurance, Inc.",Financials,False
+GT,Goodyear Tire and Rubber Company,Consumer Discretionary,False
+GTES,Gates Corporation,Industrials,False
+GTM,ZoomInfo,Communication Services,False
+GTY,Getty Realty Corp.,Real Estate,False
+GVA,"Granite Construction, Inc.",Industrials,False
+HAFC,Hanmi Financial Corporation,Financials,False
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",Financials,False
+HAYW,"Hayward Holdings, Inc.",Industrials,False
+HCC,"Warrior Met Coal, Inc.",Materials,False
+HCI,"HCI Group, Inc.",Financials,False
+HCSG,"Healthcare Services Group, Inc.",Industrials,False
+HE,"Hawaiian Electric Industries, Inc.",Utilities,False
+HFWA,Heritage Financial Corporation,Financials,False
+HIW,Highwoods Properties,Real Estate,False
+HLIT,Harmonic Inc.,Information Technology,False
+HLX,"Helix Energy Solutions Group, Inc.",Energy,False
+HMN,Horace Mann Educators Corporation,Financials,False
+HNI,HNI Corporation,Industrials,False
+HOPE,"Hope Bancorp, Inc.",Financials,False
+HP,"Helmerich & Payne, Inc.",Energy,False
+HRMY,"Harmony Biosciences Holdings, Inc.",Health Care,False
+HSTM,"HealthStream, Inc.",Health Care,False
+HTH,Hilltop Holdings Inc.,Financials,False
+HTLD,"Heartland Express, Inc.",Industrials,False
+HTO,H2O America,Utilities,False
+HUBG,"Hub Group, Inc.",Industrials,False
+HWKN,"Hawkins, Inc.",Materials,False
+HZO,"MarineMax, Inc.",Consumer Discretionary,False
+IART,Integra Lifesciences Holdings,Health Care,False
+IBP,"Installed Building Products, Inc.",Consumer Discretionary,False
+ICHR,"Ichor Holdings, Ltd.",Information Technology,False
+ICUI,ICU Medical,Health Care,False
+IIPR,"Innovative Industrial Properties, Inc.",Real Estate,False
+INDB,Independent Bank Corp.,Financials,False
+INDV,Indivior,Health Care,False
+INSP,"Inspire Medical Systems, Inc.",Health Care,False
+INSW,"International Seaways, Inc.",Energy,False
+INVA,"Innoviva, Inc.",Health Care,False
+INVX,"Innovex International, Inc.",Energy,False
+IOSP,"Innospec, Inc.",Materials,False
+IPAR,"Inter Parfums, Inc.",Consumer Staples,False
+IRDM,Iridium Communications,Communication Services,False
+ITGR,Integer Holdings Corporation,Health Care,False
+ITRI,"Itron, Inc.",Information Technology,False
+IVT,InvenTrust Properties,Real Estate,False
+JBGS,JBG Smith,Real Estate,False
+JBLU,JetBlue,Industrials,False
+JBSS,"John B. Sanfilippo & Son, Inc.",Consumer Staples,False
+JBTM,JBT Marel Corporation,Industrials,False
+JJSF,J&J Snack Foods Corp.,Consumer Staples,False
+JOE,St. Joe Company,Real Estate,False
+JXN,"Jackson Financial, Inc.",Financials,False
+KAI,Kadant Inc.,Industrials,False
+KALU,Kaiser Aluminum Corporation,Materials,False
+KFY,Korn/Ferry International,Industrials,False
+KGS,"Kodiak Gas Services, Inc.",Energy,False
+KLIC,"Kulicke and Soffa Industries, Inc.",Information Technology,False
+KMPR,Kemper Corporation,Financials,False
+KMT,Kennametal,Industrials,False
+KMX,"CarMax, Inc.",Consumer Discretionary,False
+KN,Knowles Corporation,Information Technology,False
+KNTK,"Kinetik Holdings, Inc.",Energy,False
+KOP,"Koppers Holdings, Inc.",Materials,False
+KRMN,Karman Holdings,Industrials,False
+KSS,Kohl's Corp.,Consumer Discretionary,False
+KTB,Kontoor Brands,Consumer Discretionary,False
+KWR,Quaker Chemical Corporation,Materials,False
+LAUR,"Laureate Education, Inc.",Consumer Discretionary,False
+LAZ,Lazard,Financials,False
+LBRT,"Liberty Energy, Inc.",Energy,False
+LCII,LCI Industries,Consumer Discretionary,False
+LEG,Leggett & Platt,Consumer Discretionary,False
+LEU,Centrus Energy Corp.,Energy,False
+LFST,Lifestance Health,Health Care,False
+LGIH,LGI Homes,Consumer Discretionary,False
+LIF,Life360,Information Technology,False
+LGND,"Ligand Pharmaceuticals, Inc.",Health Care,False
+LKFN,Lakeland Financial,Financials,False
+LKQ,LKQ Corporation,Consumer Discretionary,False
+LMAT,LeMaitre Vascular,Health Care,False
+LNC,Lincoln Financial,Financials,False
+LNN,Lindsay Corporation,Materials,False
+LPG,Dorian LPG Ltd.,Energy,False
+LQDA,Liquidia Corporation,Health Care,False
+LQDT,"Liquidity Services, Inc.",Industrials,False
+LRN,"Stride, Inc.",Consumer Discretionary,False
+LTC,"LTC Properties, Inc.",Real Estate,False
+LTH,"Life Time Group Holdings, Inc.",Consumer Discretionary,False
+LUMN,Lumen Technologies,Communication Services,False
+LW,Lamb Weston,Consumer Staples,False
+LXP,Lexington Realty Trust,Real Estate,False
+LYFT,"Lyft, Inc.",Industrials,False
+LZ,"LegalZoom.com, Inc.",Industrials,False
+LZB,"La-Z-Boy, Inc.",Consumer Discretionary,False
+MAC,Macerich,Real Estate,False
+MAN,ManpowerGroup,Industrials,False
+MARA,"MARA Holdings, Inc.",Information Technology,False
+MATW,Matthews International Corporation,Consumer Discretionary,False
+MATX,"Matson, Inc.",Industrials,False
+MBC,"MasterBrand, Inc.",Industrials,False
+MBGL,"Mobility Global, Inc.",Industrials,False
+MBIN,Merchants Bancorp,Financials,False
+MC,Moelis & Company,Financials,False
+MCRI,"Monarch Casino & Resort, Inc.",Consumer Discretionary,False
+MCY,Mercury General,Financials,False
+MD,Pediatrix Medical Group,Health Care,False
+MDU,"MDU Resources Group, Inc.",Utilities,False
+MFP,"Midera Food Processing, Inc.",Industrials,False
+MGEE,"MGE Energy, Inc.",Utilities,False
+MGY,"Magnolia Oil & Gas, Corp.",Energy,False
+MHK,Mohawk Industries,Consumer Discretionary,False
+MHO,"M/I Homes, Inc.",Consumer Discretionary,False
+MIR,"Mirion Technologies, Inc.",Information Technology,False
+MKTX,MarketAxess,Financials,False
+MLKN,"MillerKnoll, Inc.",Industrials,False
+MMI,"Marcus & Millichap, Inc.",Real Estate,False
+MMSI,"Merit Medical Systems, Inc.",Health Care,False
+MPT,Medical Properties Trust,Real Estate,False
+MRCY,Mercury Systems,Industrials,False
+MRP,"Millrose Properties, Inc.",Real Estate,False
+MRTN,"Marten Transport, Ltd.",Industrials,False
+MSEX,Middlesex Water Company,Utilities,False
+MSGS,Madison Square Garden Sports Corp.,Communication Services,False
+MTCH,Match Group,Communication Services,False
+MTH,Meritage Homes Corporation,Consumer Discretionary,False
+MTRN,Materion Corp.,Materials,False
+MTUS,Metallus Inc,Materials,False
+MTX,Minerals Technologies,Materials,False
+MWA,Mueller Water Products,Industrials,False
+MXL,"MaxLinear, Inc.",Information Technology,False
+MYRG,"MYR Group, Inc.",Industrials,False
+NABL,"N-able, Inc.",Information Technology,False
+NATL,NCR Atleos,Financials,False
+NAVI,Navient,Financials,False
+NBHC,National Bank Holdings Corporation,Financials,False
+NBTB,"NBT Bancorp, Inc.",Financials,False
+NE,Noble Corporation,Energy,False
+NEO,"NeoGenomics Laboratories, Inc.",Health Care,False
+NEOG,Neogen,Health Care,False
+NGVT,"Ingevity, Corp.",Materials,False
+NHC,"National Healthcare, Corp.",Health Care,False
+NHI,"National Health Investors, Inc.",Real Estate,False
+NIC,Nicolet Bankshares,Financials,False
+NMIH,"NMI Holdings, Inc.",Financials,False
+NOG,"Northern Oil and Gas, Inc.",Energy,False
+NPK,"National Presto Industries, Inc.",Industrials,False
+NPO,"EnPro Industries, Inc.",Industrials,False
+NSIT,"Insight Enterprises, Inc.",Industrials,False
+NSP,Insperity,Industrials,False
+NSSC,Napco Security Technologies,Information Technology,False
+NTCT,"NETSCOUT Systems, Inc.",Information Technology,False
+NTST,NETSTREIT Corp.,Real Estate,False
+NWBI,"Northwest Bancshares, Inc.",Financials,False
+NWL,Newell Brands,Consumer Discretionary,False
+NWN,NW Natural,Utilities,False
+NX,Quanex Building Products Corporation,Industrials,False
+NXRT,"NexPoint Residential Trust, Inc.",Real Estate,False
+OFG,OFG Bancorp,Financials,False
+OGN,Organon & Co.,Health Care,False
+OI,"O-I Glass, Inc.",Materials,False
+OII,"Oceaneering International, Inc.",Energy,False
+OMCL,Omnicell,Health Care,False
+OPLN,"OPENLANE, Inc.",Industrials,False
+OSIS,"OSI Systems, Inc.",Information Technology,False
+OSW,OneSpaWorld Holdings Limited,Consumer Discretionary,False
+OTTR,Otter Tail Corporation,Utilities,False
+OUT,Outfront Media,Real Estate,False
+PAHC,Phibro Animal Health,Health Care,False
+PARR,"Par Pacific Holdings, Inc.",Energy,False
+PAYC,Paycom,Industrials,False
+PAYO,Payoneer Global Inc.,Financials,False
+PATK,"Patrick Industries, Inc.",Consumer Discretionary,False
+PBH,Prestige Consumer Healthcare,Health Care,False
+PBI,"Pitney Bowes, Inc.",Industrials,False
+PCRX,"Pacira BioSciences, Inc.",Health Care,False
+PDFS,"PDF Solutions, Inc.",Information Technology,False
+PEB,Pebblebrook Hotel Trust,Real Estate,False
+PECO,Phillips Edison & Company,Real Estate,False
+PENG,"Penguin Solutions, Inc.",Information Technology,False
+PENN,Penn Entertainment,Consumer Discretionary,False
+PFBC,Preferred Bank,Financials,False
+PFS,"Provident Financial Services, Inc.",Financials,False
+PGNY,"Progyny, Inc.",Health Care,False
+PHIN,"PHINIA, Inc.",Consumer Discretionary,False
+PI,"Impinj, Inc.",Information Technology,False
+PIPR,Piper Sandler Companies,Financials,False
+PJT,"PJT Partners, Inc.",Financials,False
+PLAB,"Photronics, Inc.",Information Technology,False
+PLMR,"Palomar Holdings, Inc.",Financials,False
+PLUS,"ePlus, Inc.",Information Technology,False
+PLXS,Plexus Corp.,Information Technology,False
+PMT,PennyMac Mortgage Investment Trust,Real Estate,False
+POOL,Pool Corporation,Consumer Discretionary,False
+POWI,Power Integrations,Information Technology,False
+POWL,"Powell Industries, Inc.",Industrials,False
+PPLI,People Inc.,Communication Services,False
+PRDO,Perdoceo Education Corp.,Consumer Discretionary,False
+PRG,"PROG Holdings, Inc.",Financials,False
+PRGO,Perrigo,Health Care,False
+PRGS,Progress Software Corporation,Information Technology,False
+PRIM,Primoris Services Corporation,Industrials,False
+PRK,Park National Corp.,Financials,False
+PRKS,United Parks & Resorts,Consumer Discretionary,False
+PRLB,Protolabs,Industrials,False
+PRSU,"Pursuit Attractions & Hospitality, Inc.",Consumer Discretionary,False
+PRVA,"Privia Health Group, Inc.",Health Care,False
+PSMT,PriceSmart,Consumer Staples,False
+PTCT,"PTC Therapeutics, Inc.",Health Care,False
+PTEN,"Patterson-UTI Energy, Inc.",Energy,False
+PTGX,"Protagonist Therapeutics, Inc.",Health Care,False
+PTON,"Peloton Interactive, Inc.",Consumer Discretionary,False
+PZZA,Papa John's Pizza,Consumer Discretionary,False
+QDEL,QuidelOrtho,Health Care,False
+QNST,"QuinStreet, Inc.",Communication Services,False
+QRVO,Qorvo,Information Technology,False
+QTWO,"Q2 Holdings, Inc.",Information Technology,False
+RAMP,"LiveRamp Holdings, Inc.",Information Technology,False
+RAL,Ralliant Corp,Information Technology,False
+RCUS,"Arcus Biosciences, Inc.",Health Care,False
+RDN,"Radian Group, Inc.",Financials,False
+RDNT,"RadNet, Inc.",Health Care,False
+RELY,Remitly,Financials,False
+RES,"RPC, Inc.",Energy,False
+REYN,Reynolds Consumer Products,Consumer Staples,False
+REX,REX American Resources Corporation,Energy,False
+REZI,"Resideo Technologies, Inc.",Industrials,False
+RHI,Robert Half,Industrials,False
+RHP,Ryman Hospitality Properties,Real Estate,False
+RITM,Rithm Capital,Financials,False
+RNG,"RingCentral, Inc.",Information Technology,False
+RNST,Renasant Corp.,Financials,False
+ROAD,"Construction Partners, Inc.",Industrials,False
+ROCK,"Gibraltar Industries, Inc.",Industrials,False
+ROG,Rogers Corporation,Information Technology,False
+RRR,"Red Rock Resorts, Inc.",Consumer Discretionary,False
+RSI,"Rush Street Interactive, Inc.",Consumer Discretionary,False
+RUN,Sunrun,Industrials,False
+RUSHA,Rush Enterprises,Industrials,False
+RXO,"RXO, Inc.",Industrials,False
+SAFE,"Safehold, Inc.",Real Estate,False
+SABR,Sabre,Consumer Discretionary,False
+SAFT,"Safety Insurance Group, Inc.",Financials,False
+SAH,"Sonic Automotive, Inc.",Consumer Discretionary,False
+SBCF,Seacoast Banking Corporation of Florida,Financials,False
+SBH,"Sally Beauty Holdings, Inc.",Consumer Discretionary,False
+SBSI,"Southside Bancshares, Inc.",Financials,False
+SCHL,Scholastic Corporation,Consumer Discretionary,False
+SCL,Stepan Company,Materials,False
+SCSC,"ScanSource, Inc.",Information Technology,False
+SDGR,"Schrödinger, Inc.",Health Care,False
+SEDG,SolarEdge,Information Technology,False
+SEI,"Solaris Energy Infrastructure, Inc.",Energy,False
+SEZL,Sezzle,Financials,False
+SFBS,"ServisFirst Bancshares, Inc.",Financials,False
+SFNC,Simmons First National Corporation,Financials,False
+SHAK,"Shake Shack, Inc.",Consumer Discretionary,False
+SHEN,Shenandoah Telecommunications Co,Communication Services,False
+SHO,"Sunstone Hotel Investors, Inc.",Real Estate,False
+SHOO,"Steven Madden, Ltd.",Consumer Discretionary,False
+SIG,Signet Jewelers,Consumer Discretionary,False
+SKT,"Tanger Factory Outlet Centers, Inc.",Real Estate,False
+SKY,"Champion Homes, Inc.",Consumer Discretionary,False
+SKYW,"SkyWest, Inc.",Industrials,False
+SLG,SL Green Realty,Real Estate,False
+SLVM,Sylvamo Corp.,Materials,False
+SM,SM Energy Company,Energy,False
+SMP,"Standard Motor Products, Inc.",Consumer Discretionary,False
+SMPL,Simply Good Foods Company,Consumer Staples,False
+SNDR,Schneider National,Industrials,False
+SNEX,StoneX Group Inc.,Financials,False
+SONO,"Sonos, Inc.",Consumer Discretionary,False
+SPHR,Sphere Entertainment,Communication Services,False
+SPNT,SiriusPoint Ltd.,Financials,False
+SPSC,"SPS Commerce, Inc.",Information Technology,False
+SRPT,Sarepta Therapeutics,Health Care,False
+STAA,STAAR Surgical Company,Health Care,False
+STBA,"S&T Bancorp, Inc.",Financials,False
+STC,Stewart Information Services Corporation,Financials,False
+STEP,StepStone Group,Financials,False
+STRA,"Strategic Education, Inc.",Consumer Discretionary,False
+SUPN,"Supernus Pharmaceuticals, Inc.",Health Care,False
+SXI,Standex International Corporation,Industrials,False
+SXT,Sensient Technologies,Materials,False
+TALO,"Talos Energy, Inc.",Energy,False
+TBBK,"The Bancorp, Inc.",Financials,False
+TDC,Teradata,Information Technology,False
+TDS,"Telephone and Data Systems, Inc.",Communication Services,False
+TDW,"Tidewater, Inc.",Energy,False
+TFIN,"Triumph Bancorp, Inc.",Financials,False
+TFX,Teleflex,Health Care,False
+TGTX,"TG Therapeutics, Inc.",Health Care,False
+THRM,Gentherm Incorporated,Consumer Discretionary,False
+TILE,"Interface, Inc.",Industrials,False
+TMDX,"TransMedics Group, Inc.",Health Care,False
+TMP,Tompkins Financial Corporation,Financials,False
+TNC,Tennant Company,Industrials,False
+TNDM,Tandem Diabetes Care,Health Care,False
+TPC,Tutor Perini Corporation,Industrials,False
+TR,"Tootsie Roll Industries, Inc.",Consumer Staples,False
+TRIP,TripAdvisor,Communication Services,False
+TRMK,Trustmark Corp.,Financials,False
+TRN,"Trinity Industries, Inc.",Industrials,False
+TRNO,Terreno Realty Corporation,Real Estate,False
+TRST,TrustCo Bank Corp NY,Financials,False
+TRUP,Trupanion,Financials,False
+UA,Under Armour (Class C),Consumer Discretionary,False
+UAA,Under Armour (Class A),Consumer Discretionary,False
+UCB,"United Community Banks, Inc.",Financials,False
+UCTT,"Ultra Clean Holdings, Inc.",Information Technology,False
+UE,Urban Edge Properties,Real Estate,False
+UFCS,"United Fire Group, Inc.",Financials,False
+UFPT,"UFP Technologies, Inc.",Health Care,False
+UNF,UniFirst Corporation,Industrials,False
+UNFI,United Natural Foods Inc,Consumer Staples,False
+UNIT,Uniti Group,Communication Services,False
+UPBD,"Upbound Group, Inc.",Consumer Discretionary,False
+UPWK,"Upwork, Inc.",Industrials,False
+URBN,"Urban Outfitters, Inc.",Consumer Discretionary,False
+USLM,"United States Lime & Minerals, Inc.",Materials,False
+USPH,"U.S. Physical Therapy, Inc.",Health Care,False
+UTI,Universal Technical Institute,Consumer Discretionary,False
+UTL,Unitil Corporation,Utilities,False
+UVV,Universal Corporation,Consumer Staples,False
+VAC,Marriott Vacations Worldwide,Consumer Discretionary,False
+VCEL,Vericel,Health Care,False
+VCTR,"Victory Capital Holdings, Inc.",Financials,False
+VCYT,"Veracyte, Inc.",Health Care,False
+VECO,Veeco Instruments Inc.,Information Technology,False
+VGNT,Versigent PLC,Consumer Discretionary,False
+VIR,"Vir Biotechnology, Inc.",Health Care,False
+VIRT,"Virtu Financial, Inc.",Financials,False
+VRRM,Verra Mobility Corporation,Industrials,False
+VRTS,"Virtus Investment Partners, Inc.",Financials,False
+VSAT,"Viasat, Inc.",Information Technology,False
+VSEC,VSE Corporation,Industrials,False
+VSH,Vishay Intertechnology,Information Technology,False
+VSNT,"Versant Media Group, Inc.",Communication Services,False
+VSTS,Vestis,Industrials,False
+VSXY,Victoria's Secret,Consumer Discretionary,False
+VTOL,Bristow Group Inc.,Energy,False
+VVX,"V2X, Inc.",Industrials,False
+VYX,NCR Voyix,Information Technology,False
+WABC,Westamerica Bank,Financials,False
+WAFD,"WaFd, Inc.",Financials,False
+WAY,Waystar Holding Corp,Health Care,False
+WD,"Walker & Dunlop, Inc.",Financials,False
+WDFC,WD-40 Company,Consumer Staples,False
+WEN,The Wendy's Company,Consumer Discretionary,False
+WERN,Werner Enterprises,Industrials,False
+WGO,"Winnebago Industries, Inc.",Consumer Discretionary,False
+WHD,"Cactus, Inc.",Energy,False
+WINA,Winmark,Consumer Discretionary,False
+WKC,World Kinect Corporation,Energy,False
+WLY,John Wiley & Sons,Communication Services,False
+WOR,Worthington Enterprises,Industrials,False
+WRBY,Warby Parker,Consumer Discretionary,False
+WRLD,World Acceptance Corporation,Financials,False
+WS,Worthington Steel,Materials,False
+WSBC,WesBanco,Financials,False
+WSC,WillScot Holdings Corp.,Industrials,False
+WSFS,WSFS Financial Corporation,Financials,False
+WT,"WisdomTree Investments, Inc.",Financials,False
+WU,Western Union,Financials,False
+WWW,"Wolverine World Wide, Inc.",Consumer Discretionary,False
+XHR,"Xenia Hotels & Resorts, Inc.",Real Estate,False
+XNCR,Xencor Inc,Health Care,False
+XPEL,"XPEL, Inc.",Consumer Discretionary,False
+YELP,"Yelp, Inc.",Communication Services,False
+YOU,"Clear Secure, Inc.",Information Technology,False
+ZD,Ziff Davis,Communication Services,False
+ZWS,Zurn Elkay Water Solutions Corp.,Industrials,False
